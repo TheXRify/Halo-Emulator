@@ -9,7 +9,7 @@
 #define FREE_MEMORY_OFFSET 0xb001
 #define MEMORY_LIMIT 0xffff
 
-#define CLOCK_SPEED_HZ 1
+#define CLOCK_SPEED_HZ 5
 #define CLOCK_SPEED_MS 1000 / CLOCK_SPEED_HZ
 
 #define RA 0
